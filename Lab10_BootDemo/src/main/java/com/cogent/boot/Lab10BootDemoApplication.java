@@ -1,12 +1,12 @@
 package com.cogent.boot;
 
-import org.springframework.boot.SpringApplication;
+import org.springframework.boot.SpringApplication; 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication 
 public class Lab10BootDemoApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		SpringApplication.run(Lab10BootDemoApplication.class, args);
 	}
 
